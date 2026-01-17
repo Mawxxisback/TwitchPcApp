@@ -1,0 +1,31 @@
+{
+  "name": "TwitchPcApp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.mawxxisback.twitchpcapp",
+    "productName": "TwitchPcApp",
+    "directories": {
+      "buildResources": "assets",
+      "output": "dist"
+    },
+    "files": [
+      "**/*",
+      "!node_modules/*/{test,tests}/**",
+      "!dist/**/*",
+      "!*.md"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/Twitch.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^26.4.0"
+  }
+}
