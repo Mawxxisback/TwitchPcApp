@@ -19,7 +19,7 @@ Use Twitch in a dedicated window without opening a browser, with a simple and ex
 
 ## 📸 Preview
 
-![Twitch Logo](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Twitch.jpg/250px-Twitch.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+![Twitch Logo](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Twitch_logo_%28wordmark_only%29.svg/250px-Twitch_logo_%28wordmark_only%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 ---
 
